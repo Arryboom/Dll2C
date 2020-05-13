@@ -1,0 +1,7 @@
+1. Run Dll2C.exe
+2. Open file TestWin32Dll\Win32Dll.dll
+3. Click the button "Start Conversion".
+4. Copy the generated files into your VC project directory, then add the copied files into your VC project.
+5. Invoke the generated code in your VC project. You can see the file TestWin32Dll\TestWin32Dll.cpp to learn how to invoke.
+
+If an error occurs during compilation or runtime, then please try to compile with Microsoft Visual Studio 2008 Professional Edition. For more help, please contact support@dll-decompiler.com
